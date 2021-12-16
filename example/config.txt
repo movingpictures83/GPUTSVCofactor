@@ -1,0 +1,2 @@
+Prefix plugins/GPUTSVCofactor/example
+Plugin GPUTSVCofactor inputfile parameters.txt outputfile cofactors.tsv
